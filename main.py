@@ -180,7 +180,12 @@ Astar seemed to require less expansion/exploration of nodes when compared to UCS
 optimal (not reflected in this data set due to errors in Astar behavior and data gathering techniques). These conclusions 
 make sense, as UCS tries to look across the map and backtrace to find the best/most optimal route. In comparison, Astar uses 
 a heuristic that incorporates the distance to the goal, which discourages moving away from the goal chasing small short sections, 
-helping to keep the optimization level high and the number of expanded/visited nodes low.""")
+helping to keep the optimization level high and the number of expanded/visited nodes low.
+               
+Collaboration Disclosure:
+               Throughout this project, I collaborated with several people, including Nate Sweet, Tristan Hook, Patrick Punch, and Kevin Walsh. 
+               Additionally, I used Github Copilot to help write some repetitive code, but I did not use it to generate any of the core logic 
+               or fundamental concepts for this project, including the search algorithms or the map data structure.""")
   readme.write
   readme.close()
 
