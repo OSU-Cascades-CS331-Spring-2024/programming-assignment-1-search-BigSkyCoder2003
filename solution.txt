@@ -1,0 +1,144 @@
+BFS: ['brest', 'rennes', 'paris', 'dijon', 'lyon', 'avignon', 'marseille', 'nice'] cost: 1633
+explored: 16
+frontier: 5
+expanded: 12
+DLS: ['brest', 'rennes', 'nantes', 'limoges', 'lyon', 'avignon', 'marseille', 'nice'] cost: 1616
+explored: 18
+frontier: 5
+expanded: 14
+UCS: ['brest', 'rennes', 'nantes', 'bordeaux', 'toulouse', 'montpellier', 'avignon', 'marseille', 'nice'] cost: 1589
+explored: 17
+frontier: 0
+expanded: 17
+AStar: ['brest', 'rennes', 'nantes', 'bordeaux', 'toulouse', 'montpellier', 'avignon', 'marseille', 'nice'] cost: 1589
+explored: 17
+frontier: 0
+expanded: 17
+BFS: ['montpellier', 'toulouse', 'limoges', 'paris', 'calais'] cost: 1224
+explored: 11
+frontier: 9
+expanded: 19
+DLS: ['montpellier', 'toulouse', 'limoges', 'paris', 'calais'] cost: 1224
+explored: 16
+frontier: 12
+expanded: 21
+UCS: ['montpellier', 'avignon', 'lyon', 'dijon', 'paris', 'calais'] cost: 1131
+explored: 16
+frontier: 6
+expanded: 27
+AStar: ['montpellier', 'avignon', 'lyon', 'dijon', 'paris', 'calais'] cost: 1131
+explored: 16
+frontier: 6
+expanded: 27
+BFS: ['strasbourg', 'dijon', 'lyon', 'limoges', 'bordeaux'] cost: 1160
+explored: 8
+frontier: 19
+expanded: 8
+DLS: ['strasbourg', 'nancy', 'paris', 'limoges', 'bordeaux'] cost: 1123
+explored: 14
+frontier: 15
+expanded: 16
+UCS: ['strasbourg', 'nancy', 'paris', 'limoges', 'bordeaux'] cost: 1123
+explored: 17
+frontier: 5
+expanded: 22
+AStar: ['strasbourg', 'nancy', 'paris', 'limoges', 'bordeaux'] cost: 1123
+explored: 17
+frontier: 4
+expanded: 24
+BFS: ['paris', 'dijon', 'lyon', 'grenoble'] cost: 625
+explored: 8
+frontier: 17
+expanded: 3
+DLS: ['paris', 'limoges', 'lyon', 'grenoble'] cost: 917
+explored: 16
+frontier: 11
+expanded: 19
+UCS: ['paris', 'dijon', 'lyon', 'grenoble'] cost: 625
+explored: 12
+frontier: 3
+expanded: 22
+AStar: ['paris', 'dijon', 'lyon', 'grenoble'] cost: 625
+explored: 12
+frontier: 3
+expanded: 24
+BFS: ['grenoble', 'lyon', 'limoges', 'paris'] cost: 918
+explored: 5
+frontier: 10
+expanded: 5
+DLS: ['grenoble', 'lyon', 'dijon', 'paris'] cost: 621
+explored: 9
+frontier: 9
+expanded: 16
+UCS: ['grenoble', 'lyon', 'dijon', 'paris'] cost: 621
+explored: 10
+frontier: 4
+expanded: 17
+AStar: ['grenoble', 'lyon', 'dijon', 'paris'] cost: 621
+explored: 10
+frontier: 4
+expanded: 17
+BFS: ['brest', 'rennes', 'paris', 'dijon', 'lyon', 'grenoble'] cost: 1214
+explored: 11
+frontier: 13
+expanded: 8
+DLS: ['brest', 'rennes', 'nantes', 'limoges', 'lyon', 'grenoble'] cost: 1197
+explored: 16
+frontier: 9
+expanded: 13
+UCS: ['brest', 'rennes', 'nantes', 'limoges', 'lyon', 'grenoble'] cost: 1197
+explored: 14
+frontier: 5
+expanded: 17
+AStar: ['brest', 'rennes', 'nantes', 'limoges', 'lyon', 'grenoble'] cost: 1197
+explored: 14
+frontier: 5
+expanded: 17
+BFS: ['grenoble', 'lyon', 'limoges', 'nantes', 'rennes', 'brest'] cost: 1198
+explored: 14
+frontier: 15
+expanded: 14
+DLS: ['grenoble', 'lyon', 'dijon', 'paris', 'rennes', 'brest'] cost: 1212
+explored: 18
+frontier: 15
+expanded: 20
+UCS: ['grenoble', 'lyon', 'limoges', 'nantes', 'rennes', 'brest'] cost: 1198
+explored: 17
+frontier: 6
+expanded: 22
+AStar: ['grenoble', 'lyon', 'limoges', 'nantes', 'rennes', 'brest'] cost: 1198
+explored: 17
+frontier: 5
+expanded: 22
+BFS: ['nice', 'marseille', 'avignon', 'lyon', 'limoges', 'nantes'] cost: 1262
+explored: 7
+frontier: 8
+expanded: 13
+DLS: ['nice', 'marseille', 'avignon', 'lyon', 'limoges', 'nantes'] cost: 1262
+explored: 13
+frontier: 21
+expanded: 9
+UCS: ['nice', 'marseille', 'avignon', 'montpellier', 'toulouse', 'bordeaux', 'nantes'] cost: 1232
+explored: 13
+frontier: 7
+expanded: 19
+AStar: ['nice', 'marseille', 'avignon', 'montpellier', 'toulouse', 'bordeaux', 'nantes'] cost: 1232
+explored: 13
+frontier: 7
+expanded: 19
+BFS: ['caen', 'calais', 'nancy', 'strasbourg'] cost: 989
+explored: 4
+frontier: 13
+expanded: 4
+DLS: ['caen', 'paris', 'dijon', 'strasbourg'] cost: 897
+explored: 13
+frontier: 12
+expanded: 14
+UCS: ['caen', 'paris', 'nancy', 'strasbourg'] cost: 759
+explored: 10
+frontier: 4
+expanded: 14
+AStar: ['caen', 'paris', 'nancy', 'strasbourg'] cost: 759
+explored: 10
+frontier: 4
+expanded: 14
